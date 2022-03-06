@@ -1,0 +1,8 @@
+careful!
+
+this is still not the right solution because...
+
+for a certain y, it only requires all the points before it to have the "non-negative-sum" property. but in this code, it eliminates more points than necessary.
+
+refer to leetcode.come for the right solution.
+
